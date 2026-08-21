@@ -4,13 +4,17 @@ A desktop invoice calculator built with Java Swing. Enter a subtotal and the app
 
 ## Features
 
-Simple GUI built with Java Swing (JFrame, JPanel, JTextField, JButton)
-Tiered discount logic:
-20% off subtotals of $200 or more
-10% off subtotals of $100–$199.99
-No discount below $100
-Real-time calculation on button click
-Clean exit handling
+-Simple GUI built with Java Swing (JFrame, JPanel, JTextField, JButton)
+
+-Tiered discount logic:
+
+   20% off subtotals of $200 or more
+   10% off subtotals of $100–$199.99
+   No discount below $100
+   
+-Real-time calculation on button click
+
+-Clean exit handling
 ## Screenshot
 
    ![Invoice Calculator screenshot](screenshot.png)
