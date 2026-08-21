@@ -14,9 +14,7 @@ A desktop invoice calculator built with Java Swing. Enter a subtotal and the app
 
 ## Screenshot
 
-_Add a screenshot here after running the app locally — drag the image into this repo and reference it like:_
-`![Invoice Calculator screenshot](screenshot.png)`
-
+   ![Invoice Calculator screenshot](screenshot.png)
 ## Tech Stack
 
 - Java 21
