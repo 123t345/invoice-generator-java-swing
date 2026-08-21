@@ -43,7 +43,7 @@ javac -d out invoiceapp/*.java module-info.java
 java -cp out invoiceapp.InvoiceApp
 ```
 
-Or open the project in any Java IDE (Eclipse, IntelliJ) and run `InvoiceApp.java` directly.
+Or open the project in any Java IDE (Eclipse, IntelliJ) and run InvoiceApp.java directly.
 
 ## What I Learned
 
